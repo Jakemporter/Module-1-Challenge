@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header conent */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,12 +69,7 @@ p {
     margin-left: 25px;
 }
 
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Aside content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -97,7 +92,12 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Horiseon main section conent */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,7 +117,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer */
 footer {
     padding: 30px;
     clear: both;
